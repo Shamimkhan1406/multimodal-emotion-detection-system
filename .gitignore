@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+# ML stuff
+*.env
+*.h5
+*.onnx
+*.pt
+*.pth
+*.ckpt
+data/
+datasets/
+*.zip
