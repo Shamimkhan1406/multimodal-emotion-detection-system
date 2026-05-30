@@ -155,3 +155,8 @@ curl -X POST \
   -F "text=I just got promoted!" \
   http://127.0.0.1:3000/api/predict
 ```
+### Contributors -
+   1.Neha Sinha
+   2.Shamim Khan
+   3.Asmita Maity
+   4.Danish Ali
